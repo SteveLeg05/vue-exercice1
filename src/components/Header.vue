@@ -18,16 +18,16 @@
   justify-content: space-between;
   align-items: center;
   height: var(--header-height);
+  padding: 10px 0;
   /* border: solid 2px purple; */
 }
 .header {
   /* border: solid 2px blue; */
-  border-bottom: solid 2px var(--main-yellow);
+  border-bottom: solid 1px var(--main-yellow);
 }
 
 .header img {
   /* border: solid 2px blue; */
-  height: 65px;
-  width: 65px;
+  height: 100%;
 }
 </style>

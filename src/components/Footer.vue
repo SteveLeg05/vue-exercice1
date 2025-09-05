@@ -1,7 +1,7 @@
 <template>
   <footer>
     <p>
-      Made with <span>React</span> by
+      Made with <a href="http://fr.react.dev">React</a> by
       <a href="https://www.lereacteur.io/" target="_blank">Steve Legrand</a>
     </p>
   </footer>
@@ -12,7 +12,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-top: solid 2px var(--main-yellow);
+  border-top: solid 1px var(--main-yellow);
   /* border: solid 2px red; */
   height: var(--footer-height);
 }
